@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Nehil 👋
 
-<!--
-**nehilbhakta/nehilbhakta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering Graduate Student at Arizona State University (Expected Graduation: Dec 2026)
 
-Here are some ideas to get you started:
+AWS Academy Graduate – Data Engineering (100%)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Technical Interests
+- Backend Development
+- Distributed Systems
+- Cloud-Native Applications
+- Data Engineering
+
+---
+
+## Tech Stack
+- Java
+- Python
+- SQL
+- REST APIs
+- AWS (S3, Glue, Redshift, IAM)
+
+Currently preparing for Software Development Engineer Internship – Summer 2026.
