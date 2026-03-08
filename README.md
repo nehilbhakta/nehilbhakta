@@ -1,46 +1,37 @@
 # Nehil Bhakta
 
 Software Engineering Graduate Student at Arizona State University  
-Expected Graduation: Dec 2026  
+Expected Graduation: December 2026  
 
 AWS Academy Graduate – Data Engineering (100%)
 
 ---
 
-## About Me
+## About
 
-I enjoy building backend systems that are reliable, scalable, and thoughtfully designed.  
-My focus is on understanding how systems work end-to-end — from API design and data modeling to cloud infrastructure and distributed architectures.
+I focus on building backend systems and cloud-native applications with strong engineering fundamentals.  
+My interests include API design, data modeling, distributed systems, and scalable architectures.
 
-I am currently preparing for a Software Development Engineer Internship – Summer 2026 and continuously strengthening my problem-solving and system design skills.
-
----
-
-## What I’m Focused On
-
-- Designing clean, API-driven backend services  
-- Building scalable and maintainable system architectures  
-- Exploring distributed systems and cloud-native applications  
-- Writing structured, efficient code with strong fundamentals  
+Currently preparing for a Software Development Engineer Internship – Summer 2026.
 
 ---
 
-## Tech Stack
+## Technical Skills
 
 **Languages:** Java, Python, SQL  
-**Backend:** REST APIs, Data Modeling, CRUD Services  
+**Backend:** RESTful APIs, CRUD Services, Data Modeling  
 **Cloud:** AWS (S3, Glue, Redshift, IAM)  
-**Core Concepts:** Data Structures & Algorithms, OOP, Microservices, System Design  
+**Core Concepts:** Data Structures & Algorithms, OOP, Microservices Architecture, System Design Fundamentals  
 
 ---
 
-## Current Growth Areas
+## Current Focus
 
-- Advanced Data Structures & Algorithms  
-- Backend performance optimization  
-- Cloud deployment and infrastructure  
+- Strengthening problem-solving and algorithmic thinking  
+- Building production-ready backend services  
+- Expanding cloud and distributed systems knowledge  
 
 ---
 
-📍 Tempe, AZ  
-🔗 LinkedIn: https://www.linkedin.com/in/nehil-bhakta-nebhkaudian/
+Tempe, AZ  
+LinkedIn: https://www.linkedin.com/in/nehil-bhakta-nebhkaudian/
