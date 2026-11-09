@@ -3,23 +3,26 @@
 **Frontend & Full-Stack Developer** — React · Next.js · TypeScript · FastAPI
 MS in Information Technology @ Arizona State University — Dec 2026, GPA 3.78/4.0
 
-I build web products and the ML systems behind them. Over 2+ years at Ordex Technology Solutions, I shipped production React/Next.js applications for clients in the US and India — cutting page load from **3.2s → 1.8s** and raising Lighthouse scores from the mid-60s to ~90.
-
-- 🔭 **Open to full-time roles from January 2027** — Frontend Developer · Full-Stack Developer · ML Engineer
-- 📍 Phoenix, AZ · Open to relocating across the US
-- 🌐 **Portfolio:** [nehilbhakta-portfolio.vercel.app](https://nehilbhakta-portfolio.vercel.app) — every project below is a live app you can open
+I build web products and the ML systems behind them. In 2+ years at Ordex Technology Solutions, I shipped production React/Next.js applications for clients in the US and India — cutting page load from **3.2s → 1.8s** and raising Lighthouse scores from the mid-60s to ~90.
 
 ---
 
-## 🚀 Featured Projects
+## 💼 What I'm looking for
 
-| Project | What it is | Live |
-| --- | --- | --- |
-| [RLVR Environment](https://github.com/nehilbhakta/rlvr-env) | RL environment with verifiable rewards — 20 code/math tasks graded by hidden unit tests and exact answers. Trained a 299K-parameter transformer on it (7/20 vs a 2/20 baseline) and ran a GRPO experiment. | [Demo](https://nehilbhakta-rlvr-demo.vercel.app) |
-| [TaskBoard](https://github.com/nehilbhakta/task-board) | Full-stack task board — FastAPI + SQLAlchemy backend, Next.js 15 / React 19 frontend, drag-and-drop boards, lists and cards. | [Live app](https://nehilbhakta-taskboard.vercel.app) |
-| [Heart Attack Risk Prediction](https://github.com/nehilbhakta/heart-attack-risk-prediction) | End-to-end ML pipeline (XGBoost, test ROC-AUC 0.957) rebuilt as a FastAPI + Next.js app, with batch CSV scoring for up to 500 rows. Educational demo — not a medical device. | [Live app](https://nehilbhakta-heartrisk.vercel.app) |
-| [Supply Chain KPI Dashboard](https://github.com/nehilbhakta/supply-chain-kpi) | Procurement analytics on simulated data — 732 POs, $13.77M spend, 90.2% on-time delivery, supplier scorecard, stockout-risk and excess-inventory analysis. | [Dashboard](https://nehilbhakta-supplychain.vercel.app) |
-| [Restaurant Reservation API](https://github.com/nehilbhakta/kyobee-reservation-api) | RESTful reservation API built with FastAPI — grown out of my production work on Kyobee (now RetailBoon) at Ordex. | [API docs](https://nehilbhakta-kyobee-api.onrender.com/docs) |
+**Full-time Frontend Developer, Full-Stack Developer, or ML Engineer roles — starting January 2027.**
+📍 Phoenix, AZ · Open to relocating anywhere in the US
+
+👇 **The six pinned projects below are all live apps** — a full-stack task board, an ML risk-prediction app with batch scoring, an RL environment with verifiable rewards (plus a model I trained on it), a supply-chain analytics dashboard, and more. Don't just read about them — open them and try them.
+
+---
+
+## 📬 Get in touch
+
+Recruiting for any of the roles above — or just want to talk shop? I'd love to hear from you:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nehil-bhakta)
+[![Portfolio](https://img.shields.io/badge/Portfolio-See_my_live_work-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nehilbhakta-portfolio.vercel.app)
+[![Email](https://img.shields.io/badge/Email-nbhakta@asu.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nbhakta@asu.edu)
 
 ---
 
@@ -45,11 +48,3 @@ I build web products and the ML systems behind them. Over 2+ years at Ordex Tech
 ## 📜 Certifications
 
 - **AWS Academy Graduate – Data Engineering** (Feb 2026) — [Credly badge](https://www.credly.com/badges/da6a9275-e646-4c32-88cd-4e8f9663f876)
-
----
-
-## 🤝 Connect
-
-- **LinkedIn:** [linkedin.com/in/nehil-bhakta](https://www.linkedin.com/in/nehil-bhakta)
-- **Portfolio:** [nehilbhakta-portfolio.vercel.app](https://nehilbhakta-portfolio.vercel.app)
-- **Email:** nbhakta@asu.edu
