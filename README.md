@@ -48,13 +48,6 @@ I build web products and the ML systems behind them. Over 2+ years at Ordex Tech
 
 ---
 
-## 📊 GitHub Stats
-
-![Nehil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nehilbhakta&show_icons=true&theme=default)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nehilbhakta&layout=compact)
-
----
-
 ## 🤝 Connect
 
 - **LinkedIn:** [linkedin.com/in/nehil-bhakta](https://www.linkedin.com/in/nehil-bhakta)
