@@ -20,8 +20,6 @@ I build web products and the ML systems behind them. In 2+ years at Ordex Techno
 
 Recruiting for any of the roles above — or just want to talk shop? I'd love to hear from you:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nehil-bhakta)
-[![Portfolio](https://img.shields.io/badge/Portfolio-See_my_live_work-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nehilbhakta-portfolio.vercel.app)
 [![Email](https://img.shields.io/badge/Email-nbhakta@asu.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nbhakta@asu.edu)
 
 ---
